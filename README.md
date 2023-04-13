@@ -29,12 +29,12 @@ Below is the summary of the balanced accuracy scores and the precision and recal
 ### Balanced Random Forest Classifier
 * This model had a high balanced accuracy score, indicating improved performance over other methods. It also had reasonable precision and recall scores for both classes, showing a balanced performance.
 
-<img width="631" alt="Screen Shot 2023-04-13 at 2 48 54 PM" src="https://user-images.githubusercontent.com/18335464/231855292-e35f0066-ffe5-4bbf-aaf9-a1638f928415.png">
+<img width="630" alt="Screen Shot 2023-04-13 at 2 49 05 PM" src="https://user-images.githubusercontent.com/18335464/231855343-91f2ce45-40ce-49a1-a9d8-6ee9d36d1944.png">
 
 ### Easy Ensemble AdaBoost Classifier
 * The model displayed the highest balanced accuracy score among all tested models, along with high recall scores for both low-risk and high-risk loans. This indicates a strong overall performance in predicting credit risk.
 
-<img width="630" alt="Screen Shot 2023-04-13 at 2 49 05 PM" src="https://user-images.githubusercontent.com/18335464/231855343-91f2ce45-40ce-49a1-a9d8-6ee9d36d1944.png">
+<img width="629" alt="Screen Shot 2023-04-13 at 3 05 05 PM" src="https://user-images.githubusercontent.com/18335464/231858673-2f7cc701-6688-4f96-9aa9-7f12908a75e0.png">
 
 ## Summary
 In summary, the analysis results indicate that the Easy Ensemble AdaBoost Classifier performed best in predicting credit risk among the other Machine Learning models. This model has the highest balanced accuracy score and high recall scores for both low risk and high risk loan predictions. Therefore, we recommend using the Easy Ensemble AdaBoost Classifier for predicting credit risk in this scenario.
